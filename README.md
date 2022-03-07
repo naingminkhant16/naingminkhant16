@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naingminkhant16
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning PHP and JavaScript.
+- 🌱 I’m currently learning LAMP stack.
 - 📫 How to reach me - tharkhant777@gmail.com
 
 <!---
