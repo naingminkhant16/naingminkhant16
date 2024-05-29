@@ -117,7 +117,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/naingminkhant16/naingminkhant16/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
