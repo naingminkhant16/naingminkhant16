@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">🌱 I’m currently learning <b>Java and Spring/Spring Boot</b>.</p>
+<p align="center">🌱 I’m currently learning <b>Java, Spring/Spring Boot, and React</b>.</p>
 
 ###
 
